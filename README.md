@@ -1,1 +1,3 @@
-0x00. Shell, basics0x00. Shell, basics
+#!/bin/bash
+0x00. Shell, basics
+
